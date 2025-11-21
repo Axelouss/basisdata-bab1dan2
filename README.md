@@ -88,16 +88,4 @@ E. PERINTAH DDL DASAR:
    ```sql
    DROP DATABASE praktikum;
    ```
-
-F. EVALUASI PRAKTIKUM:
-
-1. Instalasi dan login MySQL
-2. Buat database dengan nama "Prak_NIM"
-3. Praktikkan semua perintah DDL dasar
-4. Buat laporan berisi source code SQL dan screenshot
-
-KETERANGAN LAPORAN:
-
-· Format file: PrakDB_Bab[NoBab]-NIM.odt
-· Simpan di folder: PrakDB-NIM
-· Isi: source SQL + screenshot CMD + tema yang ditentukan
+Sekian dan terimakaasih
